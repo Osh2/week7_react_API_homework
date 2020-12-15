@@ -1,9 +1,11 @@
-
+import SongBox from './containers/SongBox';
 import './App.css';
 
 function App() {
   return (
-    <h1> Sing songs</h1>
+    <>
+      <SongBox />
+    </>
   );
 }
 
