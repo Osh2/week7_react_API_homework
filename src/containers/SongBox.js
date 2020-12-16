@@ -21,7 +21,7 @@ const SongBox = () => {
 
     return (
         <>
-            <h1> TOP 20 FUCKING SONGS </h1>
+            <h1> TOP 20 SONGS </h1>
             <SongList songs ={songs}/>
             
         </>
